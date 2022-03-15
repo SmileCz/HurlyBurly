@@ -1,9 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8E83BA6C-9AFB-4653-8C32-1497FF9A2EC5}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6D30ACAA-26D1-4372-8CDB-C66B480B3DA6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
